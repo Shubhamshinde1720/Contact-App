@@ -7,13 +7,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+You can now view contact-app in the browser.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.16.104:3000
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Note that the development build is not optimized.
+To create a production build, use npm run build.
 
+webpack compiled successfully
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
